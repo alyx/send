@@ -13,6 +13,11 @@ class Promo extends Component {
   }
 
   createElement() {
+    if (!this.state.promo) {
+      return html`
+        <div></div>
+      `;
+    }
     return html`
       <send-promo
         class="w-full flex-row items-center content-center justify-center bg-white text-grey-80 px-4 py-3 flex border-b border-grey-banner leading-normal dark:bg-grey-90 dark:text-grey-20 dark:border-grey-80"

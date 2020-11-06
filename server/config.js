@@ -56,7 +56,7 @@ const conf = convict({
   },
   anon_max_downloads: {
     format: Number,
-    default: 5,
+    default: 100,
     env: 'ANON_MAX_DOWNLOADS'
   },
   max_files_per_archive: {
@@ -157,7 +157,7 @@ const conf = convict({
   },
   fxa_required: {
     format: Boolean,
-    default: true,
+    default: false,
     env: 'FXA_REQUIRED'
   },
   fxa_url: {

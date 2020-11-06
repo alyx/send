@@ -145,7 +145,7 @@
     "helmet": "^3.23.3",
     "mkdirp": "^0.5.1",
     "mozlog": "^2.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "redis": "^3.0.2",
     "selenium-standalone": "^6.15.6",
     "ua-parser-js": "^0.7.21"
