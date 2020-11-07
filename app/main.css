@@ -14,7 +14,7 @@ html {
 }
 
 :root {
-  --violet-gradient: linear-gradient(
+  --violent-gradient: linear-gradient(
     -180deg,
     rgba(144, 89, 255, 0.8) 0%,
     rgba(144, 89, 255, 0.4) 100%
