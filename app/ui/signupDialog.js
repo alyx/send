@@ -11,7 +11,7 @@ module.exports = function(trigger) {
       <send-signup-dialog
         class="flex flex-col justify-center my-16 md:my-0 px-8 md:px-24 w-full h-full"
       >
-        <img src="${assets.get('master-logo.svg')}" class="h-16 mt-1 mb-4" />
+        <img src="${assets.get('icon.svg')}" class="h-16 mt-1 mb-4" />
         <section class="flex flex-col flex-shrink-0 self-center">
           <h1 class="text-3xl font-bold text-center">
             ${state.translate('accountBenefitTitle')}
