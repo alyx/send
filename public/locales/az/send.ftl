@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Geri dönüş
 importingFile = İdxal edilir…
 encryptingFile = Şifrələnir...
@@ -49,10 +49,10 @@ passwordSetError = Parol qurula bilmədi
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 # byte abbreviation
 bytes = B
 # kibibyte abbreviation

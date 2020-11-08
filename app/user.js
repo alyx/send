@@ -115,9 +115,9 @@ export default class User {
     this.trigger = trigger;
     try {
       const params = new URLSearchParams({
-        entrypoint: `send-${trigger}`,
+        entrypoint: `sand-send-${trigger}`,
         form_type: 'email',
-        utm_source: utms.source || 'send',
+        utm_source: utms.source || 'sand-send',
         utm_campaign: utms.campaign || 'none'
       });
       const res = await fetch(
@@ -160,13 +160,13 @@ export default class User {
       options.flow_begin_time = this.flowBeginTime;
     }
     if (this.trigger) {
-      options.entrypoint = `send-${this.trigger}`;
+      options.entrypoint = `sand-send-${this.trigger}`;
     }
     if (this.utms) {
       options.utm_campaign = this.utms.campaign || 'none';
       options.utm_content = this.utms.content || 'none';
       options.utm_medium = this.utms.medium || 'none';
-      options.utm_source = this.utms.source || 'send';
+      options.utm_source = this.utms.source || 'sand-send';
       options.utm_term = this.utms.term || 'none';
     }
     const params = new URLSearchParams(options);

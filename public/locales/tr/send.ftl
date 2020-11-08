@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = İçe aktarılıyor…
 encryptingFile = Şifreleniyor…
 decryptingFile = Şifre çözülüyor…
@@ -44,10 +44,10 @@ passwordSetError = Parola ayarlanamadı
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Basit ve gizli dosya paylaşımı
 introDescription = { -send-brand } ile dosyalarınızı uçtan uca şifreleme ve otomatik olarak silinen bir bağlantıyla paylaşın. Böylece özel dosyalarınız güvenle saklanır, bir süre sonra kendi kendine silinir.
 notifyUploadEncryptDone = Dosyanız şifrelendi ve gönderilmeye hazır

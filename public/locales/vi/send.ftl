@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Đang nhập...
 encryptingFile = Đang mã hóa...
 decryptingFile = Đang giải mã...
@@ -46,10 +46,10 @@ passwordSetError = Không thể đặt mật khẩu này
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Chia sẻ tập tin đơn giản, riêng tư
 introDescription = { -send-brand } cho phép bạn chia sẻ các tập tin với mã hóa đầu cuối và một liên kết tự động hết hạn. Vì vậy, bạn có thể giữ những gì bạn chia sẻ riêng tư và đảm bảo dữ liệu của bạn không trực tuyến vĩnh viễn.
 notifyUploadEncryptDone = Tập tin của bạn được mã hóa và sẵn sàng để gửi

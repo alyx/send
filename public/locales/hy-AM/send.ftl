@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Արձագանք
 importingFile = Ներմուծում...
 encryptingFile = Գաղտնագրում…
@@ -49,10 +49,10 @@ passwordSetError = Այս գաղտնաբառը հնարավոր չէ սահմա�
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Ուղարկել
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Պարզ, մասնավոր ֆայլերի փոխանակում
 introDescription = { -send-brand }-ը թույլ է տալիս փոխանակել ֆայլեր ծայրից ծայր գաղտնագրման միջոցով և այնպիսի հղում, որն ինքնաբերաբար ավարտվում է: Այսպիսով, դուք կարող եք վերահսկել այն, ինչով կիսվում եք և համոզված լինեք, որ ձեր նյութերը հավերժ չեն մնա առցանց:
 notifyUploadEncryptDone = Ձեր ֆայլը գաղտնագրված է և պատրաստ է ուղարկել

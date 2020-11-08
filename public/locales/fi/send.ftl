@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Tuodaan…
 encryptingFile = Salataan...
 decryptingFile = Puretaan salausta...
@@ -48,10 +48,10 @@ passwordSetError = Tätä salasanaa ei voitu asettaa
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Helppoa ja yksityistä tiedostonjakoa
 introDescription = { -send-brand } mahdollistaa tiedostojen jakamisen automaattisesti vanhenevalla linkillä. Tiedostojen jakaminen tapahtuu päästä päähän -salattuna. Näin jakamasi tiedostot pysyvät yksityisinä ja voit olla varma, etteivät lähettämäsi tiedostot pysy verkossa ikuisesti.
 notifyUploadEncryptDone = Tiedosto on salattu ja valmis lähetettäväksi

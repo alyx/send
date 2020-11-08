@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Ka olna' max jant'oj yab u t'ojnal alwa'
 importingFile = k'wajat i chiyál...
 encryptingFile = K'wajat i tsinat dheyál...
@@ -47,10 +47,10 @@ passwordSetError = Axi tsinat japixtaláb yab u awil ka eyendha'
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Yab k'ibat, a tsinat t'ojlabil u awil ka buk'uw
 introDescription = { -send-brand } in t'ajál abal ka buk'uw a t'ojlabil po axé' tsinat abal an atikláb axi tat yab a le' kin tsu'uw yab kin ejtow, aniyej an enlace abal ka pa'ba' an t'ojláb u talél kwetém. Antsan patal axi ka abna' u awil ka buk'uw tsinat ani antsan jayej axi ka buk'uw yab u jilk'onal ets'ey ti ébtsolom (internet).
 notifyUploadEncryptDone = A t'ojlabil xo' tsinadhits ani u awilits ka abna'
@@ -94,7 +94,7 @@ trySendDescription = Ka eyendha' { -send-brand } abal ka abna' a t'ojlabil, yab 
 tooManyFiles =
     { $count ->
        *[other]
-            Expidh u awil ka k'adhba' 1 i t'ojláb 
+            Expidh u awil ka k'adhba' 1 i t'ojláb
             Expidh u awil ka k'adhba' { $count } i t'ojláb.
     }
 # count will always be > 10

@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Iritzia
 importingFile = Inportatzen…
 encryptingFile = Zifratzen...
@@ -49,10 +49,10 @@ passwordSetError = Pasahitz hau ezin da ezarri
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Partekatu fitxategiak modu sinple eta pribatuan
 introDescription = { -send-brand } tresna fitxategiak partekatzeko da, muturretik muturrera zifratuta eta automatikoki iraungitzen diren loturekin. Hortaz, partekatzen duzuna pribatua izango da eta ziur egon zaitezke zure fitxategiak ez direla online egongo betirako.
 notifyUploadEncryptDone = Zure fitxategia zifratuta eta bidaltzeko prest dago

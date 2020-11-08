@@ -23,11 +23,11 @@ export default class Archive {
   }
 
   get name() {
-    return this.files.length > 1 ? 'Send-Archive.zip' : this.files[0].name;
+    return this.files.length > 1 ? 'SandSend-Archive.zip' : this.files[0].name;
   }
 
   get type() {
-    return this.files.length > 1 ? 'send-archive' : this.files[0].type;
+    return this.files.length > 1 ? 'sand-send-archive' : this.files[0].type;
   }
 
   get size() {

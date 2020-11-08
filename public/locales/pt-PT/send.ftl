@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = A importar...
 encryptingFile = A encriptar...
 decryptingFile = A desencriptar...
@@ -48,10 +48,10 @@ passwordSetError = Esta palavra-passe não pôde ser definida
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Partilha de ficheiros simples e privada
 introDescription = O { -send-brand } permite partilhar ficheiros com encriptação de ponta a ponta e uma ligação que expira automaticamente. Para que possa manter o que partilha privado e garantir que as suas coisas não fiquem online para sempre.
 notifyUploadEncryptDone = O seu ficheiro está encriptado e pronto a enviar

@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = ...ਦਰਾਮਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 encryptingFile = ...ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 decryptingFile = ...ਡਿਕ੍ਰਿਪਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
@@ -48,10 +48,10 @@ passwordSetError = ਇਹ ਪਾਸਵਰਡ ਸੈੱਟ ਨਹੀਂ ਕੀਤ
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = ਭੇਜੋ
--firefox = ਫਾਇਰਫਾਕਸ
--mozilla = ਮੋਜ਼ੀਲਾ
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = ਸੌਖਾ, ਪ੍ਰਾਈਵੇਟ ਫਾਇਲ ਸਾਂਝਾ ਕਰਨਾ
 introDescription = { -send-brand } ਤੁਹਾਨੂੰ ਸਿਰੇ-ਤੋਂ-ਸਿਰੇ ਤੱਕ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਫਾਇਲਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਦਿੰਦਾ ਹੈ ਅਤੇ ਲਿੰਕ ਦੀ ਮਿਆਦ ਆਪਣੇ ਆਪ ਪੁੱਗ ਜਾਂਦੀ ਹੈ। ਇਸ ਕਰਕੇ ਤੁਸੀਂ ਤੁਹਾਡੇ ਵਲੋਂ ਸਾਂਝੇ ਕੀਤੇ ਨੂੰ ਨਿੱਜੀ ਬਣਾਈ ਰੱਖਦੇ ਹੋ ਅਤੇ ਪੱਕਾ ਕਰਦੇ ਹੋ ਕਿ ਤੁਹਾਡਾ ਸਾਮਾਨ ਹਮੇਸ਼ਾਂ ਆਨਲਾਈਨ ਨਹੀਂ ਰਹਿੰਦਾ ਹੈ।
 notifyUploadEncryptDone = ਤੁਹਾਡਾ ਫਾਇਲ ਇੰਕ੍ਰਿਪਟ ਕੀਤੀ ਗਈ ਤੇ ਭੇਜਣ ਲਈ ਤਿਆਰ ਹੈ

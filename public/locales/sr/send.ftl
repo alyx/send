@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSendSandSend
 importingFile = Увозим…
 encryptingFile = Шифрујем…
 decryptingFile = Дешифрујем…
@@ -50,10 +50,10 @@ passwordSetError = Не можемо поставити ову лозинку
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Једноставно и приватно дељење датотека
 introDescription = { -send-brand } вам дозвољава да делите датотеке које су шифроване с краја на крај преко везе која самостално истиче. Тако да можете приватно делити ваше ствари које неће остати на вебу заувек.
 notifyUploadEncryptDone = Ваша датотека је шифрована и спремна за слање

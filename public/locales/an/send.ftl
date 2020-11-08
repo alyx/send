@@ -1,5 +1,5 @@
-# Send is a brand name and should not be localized.
-title = Send
+# SandSend is a brand name and should not be localized.
+title = SandSend
 importingFile = Se ye importando…
 encryptingFile = Se ye cifrando…
 decryptingFile = Se ye descifrando…
@@ -48,10 +48,10 @@ passwordSetError = No s'ha puesto definir la clau
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Compartición de fichers simpla y privada
 introDescription = { -send-brand } te permite de compartir fichers cifraus de cabo a cabo, y tamién un vinclo que expira automaticament. Asinas, puetz mantener en privau lo que compartes y asegurar-te de que los tuyos contenius no se quedan pa cutio en linia.
 notifyUploadEncryptDone = Lo fichero s'ha cifrau y ye presto pa ninviar-se

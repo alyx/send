@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Importerer…
 encryptingFile = Krypterer…
 decryptingFile = Dekrypterer…
@@ -48,10 +48,10 @@ passwordSetError = Adgangskoden kunne ikke sættes
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Enkel, privat fildeling
 introDescription = { -send-brand } gør det muligt at dele filer via et tidsbegrænset link og med end to end-kryptering. På den måde kan du dele filer privat og samtidig være sikker på, at det delte ikke forbliver online for evigt.
 notifyUploadEncryptDone = Din fil er krypteret og klar til at blive sendt

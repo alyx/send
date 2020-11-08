@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Oc'h enporzhiañ …
 encryptingFile = Oc'h enrinegañ..
 decryptingFile = Oc'h ezrinegañ...
@@ -54,10 +54,10 @@ passwordSetError = N'haller ket despizañ ar ger-tremen
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Rannañ restroù en un doare eeun ha prevez
 introDescription = A-drugarez da { -send-brand } a c'hallit rannañ restroù gant un enrinegañ penn-ouzh-penn hag un ere a ziamzero ent emgefreek. Evel-se e c'hallit mirout ar pezh a rannit prevez ha bezañ sur ne chomo ket ho traoù enlinenn da viken.
 notifyUploadEncryptDone = Enrineget eo ho restr ha prest eo da vezañ kaset

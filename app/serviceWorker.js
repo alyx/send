@@ -41,7 +41,7 @@ async function decryptStream(id) {
     const decrypted = keychain.decryptStream(body);
 
     let zipStream = null;
-    if (file.type === 'send-archive') {
+    if (file.type === 'sand-send-archive') {
       const zip = new Zip(file.manifest, decrypted);
       zipStream = zip.stream;
       type = 'application/zip';

@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteSubtitle = experimen web
 siteFeedback = Maklum balas
 uploadPageHeader = Peribadi, Perkongsian Fail Dienkrip

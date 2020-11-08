@@ -17,7 +17,7 @@ module.exports = function() {
           Tell us what you think.
         </h1>
         <p class="font-normal leading-normal text-grey-80 px-4">
-          Love Firefox Send? Take a quick survey to let us know how we can make
+          Love SandSend? Take a quick survey to let us know how we can make
           it better.
         </p>
         <a

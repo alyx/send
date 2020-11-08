@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Feedback
 importingFile = Importing…
 encryptingFile = Encrypting…
@@ -44,10 +44,10 @@ passwordSetError = Hindi maitakda ang password na ito
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Firefox send
--send-short-brand = I-send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Simple, pribadong pagbabahagi ng file
 notifyUploadEncryptDone = Ang iyong file ay naka-encrypt at handa na i-send
 # downloadCount is from the downloadCount string and timespan is a timespanMinutes string. ex. 'Expires after 2 downloads or 25 minutes'

@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Importuje sa…
 encryptingFile = Šifruje sa…
 decryptingFile = Dešifruje sa…
@@ -50,10 +50,10 @@ passwordSetError = Heslo nešlo nastaviť
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Jednoduché a súkromné zdieľanie súborov
 introDescription = S { -send-brand(case: "ins") } sú zdieľané súbory šifrované end-to-end, takže ani my nevieme, čo zdieľate. Platnosť odkazu je navyše obmedzená. Súbory tak môžete zdieľať súkromne a s istotou, že neostanú na internete naveky.
 notifyUploadEncryptDone = Váš súbor je zašifrovaný a pripravený na odoslanie

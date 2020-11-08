@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = S'està important…
 encryptingFile = S'està xifrant…
 decryptingFile = S'està desxifrant…
@@ -48,10 +48,10 @@ passwordSetError = No s'ha pogut definir la contrasenya
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Compartició de fitxers senzilla i privada
 introDescription = El { -send-brand } permet compartir fitxers amb xifratge d'extrem a extrem mitjançant un enllaç que caduca automàticament. Per tant, us assegureu que tot allò que compartiu és privat i que no es mantindrà a Internet per sempre.
 notifyUploadEncryptDone = El fitxer s'ha xifrat i està llest per enviar-se

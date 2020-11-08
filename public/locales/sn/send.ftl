@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Zvirikutaurwa
 importingFile = Kutora faira
 encryptingFile = Kuinikiriputa
@@ -14,4 +14,3 @@ maxPasswordLength = Pasiwedhi haipfuuri mavara:{ $length }
 passwordSetError = Pasiwedhi haina kuita
 
 ## Send version 2 strings
-

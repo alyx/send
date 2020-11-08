@@ -26,10 +26,10 @@ class Promo extends Component {
           <img
             src="${assets.get('master-logo.svg')}"
             class="w-6 h-6"
-            alt="Firefox"
+            alt="SandSend"
           />
           <span class="ml-2 sm:ml-4 text-xs sm:text-base">
-            ${`Like Firefox Send? You'll love our new full-device VPN. `}
+            ${`Like SandSend? You'll love our new full-device VPN. `}
             <a
               class="underline link-blue"
               href="https://vpn.mozilla.org/?utm_source=send.firefox.com&utm_medium=referral&utm_content=Try+Firefox+Private+Network&utm_campaign=top-bar"

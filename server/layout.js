@@ -70,7 +70,7 @@ module.exports = function(state, body = '') {
           <p>
             <a
               class="link"
-              href="https://github.com/mozilla/send/blob/master/docs/faq.md#why-does-firefox-send-require-javascript"
+              href="https://github.com/alyx/send/blob/master/docs/faq.md#why-does-firefox-send-require-javascript"
             >
               ${state.translate('whyJavascript')}
             </a>

@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Tu'un jianininu
 importingFile = Nasia´a…
 encryptingFile = Encriptando...
@@ -48,10 +48,10 @@ passwordSetError = Ntu nkuvi sá´á contraseña
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Kua´a daa archivo ñama jee yu´u
 introDescription = { -send-brand } taji jia´anu archivos jii cifrado uvi nuu jee iin enlace nɨ´ɨ. Sukuan kuvi kumi yu´unu daa archivo jia´anu jee kuninu nkino daa ya´a kue´e kuiya íchi nuu.
 notifyUploadEncryptDone = Archivo noo´o íyo cifrado jee kuvi chu´un íchi
