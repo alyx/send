@@ -183,7 +183,7 @@ footer li:hover {
 }
 
 .mozilla-logo {
-  background-image: url('../assets/mozilla-logo.svg');
+  /* background-image: url('../assets/mozilla-logo.svg'); */
   background-repeat: no-repeat;
   background-size: 100px, 48px;
   overflow: hidden;

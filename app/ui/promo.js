@@ -24,9 +24,9 @@ class Promo extends Component {
       >
         <div class="flex items-center mx-auto">
           <img
-            src="${assets.get('master-logo.svg')}"
+            src="${assets.get('icon.svg')}"
             class="w-6 h-6"
-            alt="SandSend"
+            alt="Sandsend"
           />
           <span class="ml-2 sm:ml-4 text-xs sm:text-base">
             ${`Like SandSend? You'll love our new full-device VPN. `}
