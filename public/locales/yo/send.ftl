@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send je oruko ile-ise kan, kò sì ye ki a so di ibile.
+title = SandSend
 importingFile = akowọle…
 encryptingFile = Fifi ọrọ ṣiṣẹ…
 decryptingFile = Ti nkọ nkan…
@@ -32,9 +32,9 @@ fileTooBig =
     Fáìlì yìí tóbijù láti gbà sókè. Ó ní láti kéré sí { $size }
     Fáìlì yìí tóbijù láti gbà sókè. Ó ní láti kéré ju { $size } lọ
 linkExpiredAlt =
-    Ojú-òpó ti kásẹ̀ 
-    Ojú-òpó ti pajújé 
-    Ọ̀nà-òpó ti kásẹ̀ 
+    Ojú-òpó ti kásẹ̀
+    Ojú-òpó ti pajújé
+    Ọ̀nà-òpó ti kásẹ̀
     Ọ̀nà-òpó ti pajújé
 notSupportedHeader =
     Èrọ-ìfarakọ́ra rẹ ò ní ìbátan
@@ -87,12 +87,10 @@ passwordSetError =
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand =
-    Fi ránṣẹ́
-    Firánṣẹ́
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle =
     Fáìlì pípín níkọ̀kọ̀ tó dẹrùn
     Fáìlì pípín níkọ̀kọ̀ onírọ̀rùn

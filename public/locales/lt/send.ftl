@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Importuojama…
 encryptingFile = Šifruojama…
 decryptingFile = Iššifruojama…
@@ -50,18 +50,10 @@ passwordSetError = Slaptažodžio nustatyti nepavyko
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla =
-    { $case ->
-       *[nominative] Mozilla
-        [genitive] Mozillos
-        [dative] Mozillai
-        [accusative] Mozillą
-        [instrumental] Mozilla
-        [locative] Mozilloje
-    }
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Paprastas ir privatus dalijimasis failais
 introDescription = „{ -send-brand }“ suteikia galimybę dalintis failais, pasitelkiant abipusį šifravimą ir riboto galiojimo saitus. Tai padeda pasidalintus failus išlaikyti privačiais ir užtikrina, jog trumpam įkelti failai neliks pasiekiami internete amžinai.
 notifyUploadEncryptDone = Failas užšifruotas ir parengtas išsiuntimui

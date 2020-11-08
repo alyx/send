@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = దిగుమతవుతోంది...
 encryptingFile = గుప్తీకరిస్తోంది...
 decryptingFile = వ్యక్తపరుస్తోంది...
@@ -19,7 +19,7 @@ unlockButtonLabel = తాళం తీయి
 downloadButtonLabel = దిగుమతి
 downloadFinish = దిగుమతి పూర్తయింది
 fileSizeProgress = { $totalSize }) యొక్క ({ $partialSize }
-sendYourFilesLink = Firefox sendను ప్రయత్నించండి
+sendYourFilesLink = SandSendను ప్రయత్నించండి
 errorPageHeader = ఏదో తప్పిదం జరిగింది!
 fileTooBig = ఆ ఫైలు ఎక్కించడానికి చాలా పెద్దగా ఉంది. ఫైళ్ళు { $size } కంటే తక్కువ పరిమాణంలో ఉండాలి.
 linkExpiredAlt = లంకె గడువు ముగిసింది
@@ -48,10 +48,10 @@ passwordSetError = ఈ సంకేతపదం పెట్టలేకపో�
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = పంపించు
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 notifyUploadEncryptDone = మీ ఫైలు గుప్తీకరించబడింది, పంపడానికి సిద్ధంగా ఉంది
 # downloadCount is from the downloadCount string and timespan is a timespanMinutes string. ex. 'Expires after 2 downloads or 25 minutes'
 archiveExpiryInfo = { $downloadCount } లేదా { $timespan } తర్వాత కాలంచెల్లుతుంది

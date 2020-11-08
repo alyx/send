@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Firefox Molawo
+title = SandSend
 siteSubtitle = web yimontalo
 siteFeedback = Potunu
 uploadPageLearnMore = Pobalajariya po'olo

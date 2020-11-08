@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Probíhá import…
 encryptingFile = Probíhá šifrování…
 decryptingFile = Probíhá dešifrování…
@@ -50,46 +50,10 @@ passwordSetError = Toto heslo nemohlo být nastaveno
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand =
-    { $case ->
-       *[nom] Send
-        [gen] Firefoxu Send
-        [dat] Firefoxu Send
-        [acc] Send
-        [voc] Firefoxe Send
-        [loc] Firefoxu Send
-        [ins] Firefoxem Send
-    }
--send-short-brand =
-    { $case ->
-       *[nom] Send
-        [gen] Sendu
-        [dat] Sendu
-        [acc] Send
-        [voc] Sende
-        [loc] Sendu
-        [ins] Sendem
-    }
--firefox =
-    { $case ->
-       *[nom] Firefox
-        [gen] Firefoxu
-        [dat] Firefoxu
-        [acc] Firefox
-        [voc] Firefoxe
-        [loc] Firefoxu
-        [ins] Firefoxem
-    }
--mozilla =
-    { $case ->
-       *[nom] Mozilla
-        [gen] Mozilly
-        [dat] Mozille
-        [acc] Mozillu
-        [voc] Mozillo
-        [loc] Mozille
-        [ins] Mozillou
-    }
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Jednoduché a soukromé sdílení souborů
 introDescription = S { -send-brand(case: "ins") } jsou sdílené soubory šifrované end-to-end, takže ani my nevíme, co sdílíte. Platnost odkazů je navíc omezená. Soubory tak můžete sdílet soukromě a s jistotou, že se nezůstanou na internetu válet navždy.
 notifyUploadEncryptDone = Váš soubor je zašifrovaný a připraven k odeslání

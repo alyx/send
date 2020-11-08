@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteSubtitle = web eksperiment
 siteFeedback = Povratne informacije
 uploadPageHeader = Privatno, šifrovano dijeljenje datoteka

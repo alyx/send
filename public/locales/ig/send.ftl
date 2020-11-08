@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Firefox Zipu
+title = SandSend
 importingFile = Mbubata…
 encryptingFile = ezoro ezo...
 decryptingFile = Kpebie
@@ -48,10 +48,10 @@ passwordSetError = Enweghị ike ịtọ paswọọdụ a
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Zipu, Ziga
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Mfe, nkekọrịta faịlụ nkeonwe
 introDescription = na-ahapu gị  ịkekọrịta faịlụ na izo ya na njedebe na njedebe na-akwụsị na akpaghị aka. Yabụ ị nwere ike idobe ihe ị na -eche ma hụ na ngwongwo gị agaghị adị n'ịntanetị ruo mgbe ebighi ebi.
 notifyUploadEncryptDone = Failu gi zoro ezo ma di njikere iziga

@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Akter...
 encryptingFile = Awgelhen...
 decryptingFile = Azmek...
@@ -34,7 +34,7 @@ footerLinkPrivacy = Tabaḍnit
 footerLinkCookies = Inagan n tuqqna
 passwordTryAgain = Yir awal uffir. Ɛreḍ tikelt nniḍen.
 javascriptRequired = Send yesra JavaScript
-whyJavascript = Ayɣer firefox Send yesra JavaScript?
+whyJavascript = Ayɣer SandSend yesra JavaScript?
 enableJavascript = Ma ulac aɣilif rmed JavaScript sakin ɛreḍ tikkelt nniḍen.
 # A short representation of a countdown timer containing the number of hours and minutes remaining as digits, example "13h 47m"
 expiresHoursMinutes = { $hours }Isragen { $minutes }Tisdatin
@@ -48,10 +48,10 @@ passwordSetError = Awal-agi uffir ur izmir ara ad ittwabaded
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-SandSend-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Afessas, beṭṭu n ifuyla s wudem uslig
 introDescription = { -send-brand } ad k·kem-yeǧǧ ad tebḍuḍ ifuyla iwgelhanen si ṭṭerf ɣer ṭṭerf akked useɣwen ara yemmten s wudem awurman. Daɣen, ad tizmireḍ ad tḥerzeḍ ayen i tbeṭṭuḍ s wudem uslig daɣen ad tamneḍ imi agbur-ik·im ur yettɣimi ara  i lebda.
 notifyUploadEncryptDone = Afaylu-ik yewgelhen daɣen ihegga i tuzna

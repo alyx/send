@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = প্রতিক্রিয়া
 importingFile = ইম্পোর্ট হচ্ছে...
 encryptingFile = ইনক্রিপট হচ্ছে...
@@ -49,10 +49,10 @@ passwordSetError = এই পাসওয়ার্ড সেট করা য
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = প্রেরণ
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = সহজ, ব্যক্তিগত ফাইল শেয়ার
 introDescription = { -send-brand } ফাইল এনক্রিপশন ও স্বয়ংক্রিয়ভাবে মেয়াদ শেষ হবে এমন একটি লিঙ্কের মাধ্যমে শুরু-থেকে-শেষ পর্যন্ত শেয়ার করতে দেয়। একারণে আপনি যা শেয়ার করেন তা গোপন রাখতে এবং আপনার জিনিস চিরদিনের জন্য অনলাইনে থাকবে না তা নিশ্চিত করতে পারেন।
 notifyUploadEncryptDone = আপনার ফাইল এনক্রিপ্ট করা হয়েছে এবং প্রেরণ করতে প্রস্তুত

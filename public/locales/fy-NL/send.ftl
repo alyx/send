@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Ymportearje…
 encryptingFile = Fersiferje…
 decryptingFile = Untsiferje…
@@ -48,10 +48,10 @@ passwordSetError = Dit wachtwurd koe net ynsteld wurde
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Ienfâldich, privee bestannen diele
 introDescription = Mei { -send-brand } kinne jo bestannen mei ein-ta-ein-fersifering en in automatysk ferrinnende keppeling diele. Sa kinne jo de dielde ynhâld privee hâlde, sadat jo gegevens net foar altyd online bliuwt.
 notifyUploadEncryptDone = Jo bestân is fersifere en ree om te ferstjoeren

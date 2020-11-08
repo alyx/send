@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Importowanie…
 encryptingFile = Szyfrowanie…
 decryptingFile = Odszyfrowywanie…
@@ -50,10 +50,10 @@ passwordSetError = Nie można ustawić tego hasła
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Proste, prywatne udostępnianie plików
 introDescription = { -send-brand } umożliwia udostępnianie plików za pomocą szyfrowania typu „end-to-end” i odnośników, które automatycznie wygasają. Dzięki temu możesz mieć pewność, że to co udostępniasz jest bezpieczne i nie pozostanie w Internecie na zawsze.
 notifyUploadEncryptDone = Plik jest zaszyfrowany i gotowy do wysłania

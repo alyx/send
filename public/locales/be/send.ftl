@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Імпартаванне...
 encryptingFile = Зашыфроўка...
 decryptingFile = Расшыфроўка...
@@ -50,10 +50,10 @@ passwordSetError = Гэты пароль немагчыма паставіць
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Просты і прыватны абмен файламі
 introDescription = { -send-brand } дазваляе вам абменьвацца файламі са скразным шыфраваннем і спасылкамі з абмежаваным тэрмінам дзеяння. Такім чынам, вы можаце дзяліцца файламі прыватна і быць упэўненым, што яны не застануцца ў сеціве назаўжды.
 notifyUploadEncryptDone = Ваш файл зашыфраваны і гатовы да адпраўкі

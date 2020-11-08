@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Shitechnawati
 importingFile = Mukalaktia nemi…
 encryptingFile = Tikichtakawiat tinemit…
@@ -49,10 +49,10 @@ passwordSetError = Te tiweliket tiktaliat ini ichtakataketzalis
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Shiktitani
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Shikmajmaka se tajkwilul, te uij wan ichtaka
 introDescription = { -send-brand } metzpalewia tikmajmaka se tajkwilul iwan taichtakawilis wan se ilpika puliwi nemanha. Yajika, tikpia muichtakayu pal tikmajmaka wan tesu naka senpa mutajtatka tik matapan.
 notifyUploadEncryptDone = Ne archivoj nemi ichtakawijtuk wan weli tiktitania

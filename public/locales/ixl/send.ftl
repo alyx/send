@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Aq'a yol sti'
 importingFile = Eq'otzan
 encryptingFile = La muj isik'lele
@@ -37,10 +37,10 @@ expiresMinutes = { $minutes }m
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Aq'b'en
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 # byte abbreviation
 bytes = B
 # kibibyte abbreviation

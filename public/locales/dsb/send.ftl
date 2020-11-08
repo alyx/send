@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Importěrujo se...
 encryptingFile = Koděrujo se...
 decryptingFile = Dešifrěrujo se...
@@ -52,10 +52,10 @@ passwordSetError = Toś to gronidło njedajo se nastajiś
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Jadnore, priwatne datajowe źělenje
 introDescription = { -send-brand } wam zmóžnja, dataje z koděrowanim kóńc do kóńca a wótkazom źěliś, kótaryž awtomatiski spadnjo. Tak móžośo źělone wopśimjeśe priwatne źaržaś a zawěsćiś, až waše daty online na pśecej njewóstanu.
 notifyUploadEncryptDone = Waša dataja jo skoděrowana za słanje

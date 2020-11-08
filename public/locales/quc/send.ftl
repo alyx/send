@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Utzijoxik
 importingFile = Ujek'ik…
 encryptingFile = Uwiqik…
@@ -49,10 +49,10 @@ passwordSetError = Man kkowimb'ex ta ujeqeb'axik le retokib'al
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Utaqik
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Man k'ax taj, ukomonexik taq kemk'olib'al pa echeb'alil
 introDescription = { -send-brand } kuya' bé chi awech kakomonej taq kemk'olib'al ruk' wiqitajem chi'l jun kemwiqb'al le kq'ax uq'ijol pa utukelam. Are chi man katzaq ta le kakomone'j pa echeb'alil chi'l chasuk'ub'a' rilik chi le taq ajastaq man kk'oji' ta pa nimk'atz pa junelik.
 notifyUploadEncryptDone = Le akemk'olib'al wiqitalik chi'l utz chi kataqo

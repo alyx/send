@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = Tagasiside
 importingFile = Importimine...
 encryptingFile = Krüptimine…
@@ -49,10 +49,10 @@ passwordSetError = Parooli muutmine ebaõnnestus
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Lihtne ja privaatne failijagamine
 introDescription = { -send-brand } võimaldab sul faile jagada otspunktkrüpteerimise ning automaatselt aeguva lingiga. Nii saad jagatava privaatsena hoida ja kindlustada, et su asjad igavesti internetti vedelema ei jää.
 notifyUploadEncryptDone = Sinu fail on krüptitud ja saatmiseks valmis

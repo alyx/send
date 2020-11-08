@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = מתבצע ייבוא…
 encryptingFile = מתבצעת הצפנה...
 decryptingFile = מתבצע פענוח...
@@ -49,10 +49,10 @@ passwordSetError = לא ניתן להגדיר את הססמה הזאת
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = שיתוף קבצים פרטי ופשוט
 introDescription = { -send-brand } מאפשר לך לשתף קבצים עם הצפנה מקצה לקצה וקישור עם תפוגה אוטומטית. בצורה זו תוכלו לשתף קבצים באופן פרטי ולהבטיח שהדברים שלכם לא נשארים ברשת לנצח.
 notifyUploadEncryptDone = הקובץ שלך מוצפן ומוכן לשליחה

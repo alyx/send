@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Importacion…
 encryptingFile = Chiframent…
 decryptingFile = Deschiframent…
@@ -48,10 +48,10 @@ passwordSetError = Aqueste senhal a pas pogut èsser definit
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Partatge simple e privat de fichièrs
 introDescription = { -send-brand } vos permet de partejar de fichièr amb un chiframent del cap a la fin e un ligam qu’expira automaticament. Atal podètz gardar  privat çò que partejatz e vos assegurar que demorarà pas en linha per totjorn.
 notifyUploadEncryptDone = Vòstre fichièr es chifrat e prèst per mandadís

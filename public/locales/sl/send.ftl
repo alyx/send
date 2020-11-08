@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Uvažanje …
 encryptingFile = Šifriranje ...
 decryptingFile = Dešifriranje ...
@@ -52,26 +52,10 @@ passwordSetError = Gesla ni mogoče nastaviti
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox =
-    { $sklon ->
-       *[imenovalnik] Firefox
-        [rodilnik] Firefoxa
-        [dajalnik] Firefoxu
-        [tozilnik] Firefox
-        [mestnik] Firefoxu
-        [orodnik] Firefoxom
-    }
--mozilla =
-    { $sklon ->
-       *[imenovalnik] Mozilla
-        [rodilnik] Mozille
-        [dajalnik] Mozilli
-        [tozilnik] Mozillo
-        [mestnik] Mozilli
-        [orodnik] Mozillo
-    }
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Preprosto, zasebno deljenje datotek
 introDescription = { -send-brand } vam omogoča v celoti šifrirano pošiljanje datotek s povezavo, ki samodejno poteče. Z njim lahko zasebno delite svoje datoteke in zagotovite, da ne bodo za vedno ostale na spletu.
 notifyUploadEncryptDone = Vaša datoteka je šifrirana in pripravljena za pošiljanje

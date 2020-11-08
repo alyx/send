@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 importingFile = Importeren…
 encryptingFile = Versleutelen…
 decryptingFile = Ontsleutelen…
@@ -48,10 +48,10 @@ passwordSetError = Dit wachtwoord kon niet worden ingesteld
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = Eenvoudig, privé bestanden delen
 introDescription = Met { -send-brand } kunt u bestanden delen met end-to-endversleuteling en een koppeling die automatisch verloopt. Hierdoor kunt u privé houden wat u wilt delen en er zeker van zijn dat uw zaken niet voor altijd online blijven.
 notifyUploadEncryptDone = Uw bestand is versleuteld en klaar voor verzending

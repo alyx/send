@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = ڕەخنەوپێشنیار
 importingFile = هاوردەکردن...
 encryptingFile = بەهێماکردن...
@@ -49,10 +49,10 @@ passwordSetError = ناتوانرێت وشەی تێپەڕ دابنرێت
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = سانا، بڵاوکەرەوەی پەڕگەی تایبەتیی
 introDescription = { -send-brand } ڕێگەت دەدات پەڕگەکان بڵاوبکەیتەوە بە شێوەی هێما کردنی کۆتا-بۆ-کۆتا و بەستەرێک کە خۆکارانە بەسەردەچێت. بۆیە دەتوانیت ئاگاداری ئەوە بیت کە چ پەڕگەیەک بە تایبەتی بڵاودەکەیتەوە و دڵنیادەبیتەوە کە شتەکانت بە سەرهێڵی نامێننەوە هەتا کۆتایی.
 notifyUploadEncryptDone = پەڕگەیە بەهێماکراوە ئێستا ئامادەیە بۆ ناردن

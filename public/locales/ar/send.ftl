@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = فَيَرفُكس سِنْد
+title = SandSend
 siteFeedback = الانطباعات
 importingFile = يستورد…
 encryptingFile = يعمّي…
@@ -57,10 +57,10 @@ passwordSetError = يجب ألا تُضبط كلمة السر هذه
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = شارِك ملفاتك بلا عناء وبخصوصية تامة
 introDescription = يتيح لك { -send-brand } مشاركة الملفات عبر تعميتها من الطرفين وإتاحتها في رابط ينقضي أجله تلقائيا. هكذا يمكنك إبقاء ما شاركته خاصًا فتضمن بأن ملفاتك لن تبقى في الوِب أبد الدهر.
 notifyUploadEncryptDone = اكتملت تعمية الملف وأصبح جاهزًا لإرساله

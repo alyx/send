@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSend
 siteFeedback = بازخورد
 importingFile = در حال وارد کردن…
 encryptingFile = در حال رمزنگاری…
@@ -49,10 +49,10 @@ passwordSetError = امکان ثبت این گذواژه نیست
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = ارسال
--firefox = فایرفاکس
--mozilla = موزیلا
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = اشتراک‌گذاری ساده و خصوصیِ پرونده‌ها
 introDescription = { -send-brand } به شما امکان اشتراک‌گذاری فایل‌ها با رمزگذاری سرتاسری و لینکی که به طور خودکار منقضی می شود را می‌دهد. در نتیجه می‌توانید اشتراک گذاری‌های خود را خصوصی نگه دارید و اطمینان حاصل کنید که فایل‌های شما تا همیشه آنلاین دردسترس نخواهند ماند.
 notifyUploadEncryptDone = پرونده شما رمزگذاری شده و آماده ارسال است

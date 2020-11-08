@@ -1,5 +1,5 @@
 # Send is a brand name and should not be localized.
-title = Send
+title = SandSendSandSend
 importingFile = 가져오는 중…
 encryptingFile = 암호화 중…
 decryptingFile = 복호화 중…
@@ -40,10 +40,10 @@ passwordSetError = 이 비밀번호를 설정할 수 없었습니다
 ## Send version 2 strings
 
 # Send, Send, Firefox, Mozilla are proper names and should not be localized
--send-brand = Send
--send-short-brand = Send
--firefox = Firefox
--mozilla = Mozilla
+-send-brand = SandSend
+-send-short-brand = SandSend
+-firefox = SandSend
+-mozilla = SandSend
 introTitle = 간단하고, 사생활을 보호하는 파일 공유
 introDescription = { -send-brand }를 사용하면 종단 암호화와 자동으로 만료되는 링크를 사용해 파일을 공유할 수 있습니다. 안전하게 공유할 수 있고 공유된 파일이 계속 온라인에 남지 않게 됩니다.
 notifyUploadEncryptDone = 파일이 암호화 되어서 보낼 수 있게 됐습니다
